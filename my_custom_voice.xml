@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>Hello, this is a custom test call from Twilio.</Say>
+    <Pause length="2"/>
+    <Say>Have a great day!</Say>
+    <Hangup/>
+</Response>
