@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-    <Say>Hello, this is a custom test call from Twilio.</Say>
-    <Pause length="2"/>
-    <Say>Have a great day!</Say>
-    <Hangup/>
+<Response ml-update="aware" ml-stage="preload" ml-view="top">
+<Say voice="woman">Hello, I am your assistant</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
